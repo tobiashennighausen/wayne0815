@@ -1,0 +1,4 @@
+"AadClientId": "43a7f74c-4e43-48db-8734-a953448cd290",
+"AadSecret": "47ddceac-c0df-4b13-b1e5-3f0fac443093",
+"AadTenantDomain": "test.centralinfra.net",
+"AadTenantId": "289d8cb4-ee0c-4e6f-8b0f-8f7fe733ecc2",
